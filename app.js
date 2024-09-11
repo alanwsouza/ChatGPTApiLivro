@@ -6,7 +6,7 @@ const livroRoutes = require('./routes/livro');
 const app = express();
 
 // Conectar ao MongoDB
-mongoose.connect('mongodb+srv://admin:abc001@livroapi.rz0cq.mongodb.net/?retryWrites=true&w=majority&appName=LivroApi', {
+mongoose.connect('mongodb+srv://<usuario:senha>@livroapi.rz0cq.mongodb.net/?retryWrites=true&w=majority&appName=LivroApi', {
 }).then(() => {
     console.log('Conectado ao MongoDB');
 }).catch(err => {
