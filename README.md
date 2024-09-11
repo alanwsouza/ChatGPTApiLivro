@@ -3,7 +3,7 @@ Projeto criado pelo ChatGPT
 
 # Requisitos necessários
 - Criar uma conta no MongoDB: https://account.mongodb.com/account/login
-- Instalar o node na máquina
+- Instalar o node na máquina e seguir os passos dados pelo chatGPT
 - No arquivo app.js colocar seu usuário do MongoDB abaixo do comentário // Conectar ao MongoDB
 
 # Prompt inserido no ChatGPT
