@@ -5,6 +5,8 @@ Projeto criado pelo ChatGPT
 - Criar uma conta no MongoDB: https://account.mongodb.com/account/login
 - Instalar o node na máquina e seguir os passos dados pelo chatGPT.
 - No arquivo app.js colocar seu usuário do MongoDB abaixo do comentário // Conectar ao MongoDB
+- Instalar o Python
+- Instalar as bibliotecas requests, pytest e faker com o comando Pip install
 
 # Prompt inserido no ChatGPT
 Crie uma API RESTful em Node.js para um sistema de cadastro de livros. A API deve incluir as seguintes funcionalidades:
